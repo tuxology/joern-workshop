@@ -7,7 +7,7 @@ This workshop consists of 3 modules covering various concepts around Interactive
 3. **Module 3 (Scripting Away to Glory)**: Create reusable scripts from your analysis and build your own tools using Joern.
 
 ## Workshop Guide
-Use the workshop presentation at Scale 18x `Finding-Stranger-Things-In-Code.pdf` as a guide to complete this workshop. The three modules are marked in the slides and contain all the commands presented in the workshop. You can directly copy/paste and run them on the Joern Shell.
+Use the workshop presentation prepared for Scale 18x Conference [`Finding-Stranger-Things-In-Code.pdf`](Finding-Stranger-Things-In-Code.pdf) as a guide to complete this workshop. The three modules are marked in the slides and contain all the commands presented in the workshop. You can directly copy/paste and run them on the Joern Shell.
 
 ## Preparation
 
