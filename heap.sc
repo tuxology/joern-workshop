@@ -6,6 +6,6 @@ def buffer_overflows(cpg : io.shiftleft.codepropertygraph.Cpg) = {
         .reachableBy(src.start)
         .filterNot(_.argument(1)
         .codeExact(call.argument(3).code))
-    }.code.l
+    }
 }
 
